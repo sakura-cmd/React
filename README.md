@@ -1,2 +1,2 @@
-# react
-学习react
+# React
+记录React学习
